@@ -2,13 +2,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gezer-ramos-a87538127/)](https://www.linkedin.com/in/gezer-ramos-a87538127/) 
 
-Software engineer at <a href="https://zappts.com" target="_blank">Zappts</a> 
-
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="http://www.henet.com.br/site/">HENET</a>.</li>
 <li>🧐 Learning about <strong>server side architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/gezerramos2?tab=repositories">Github</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/gezerramos?tab=repositories">Github</a>.</li>
 <!-- <li>📙 Check out my <a href="">resume</a>.</li> -->
 </ul>
 
