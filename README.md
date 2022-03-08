@@ -24,7 +24,7 @@ Software engineer at <a href="https://zappts.com" target="_blank">Zappts</a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="35px" height="35px"></a>
 <a href="https://www.mysql.com/" title="MYSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MYSQL" width="35px" height="35px"></a>
 <a href="https://mariadb.org/" title="MARIADB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mariadb-icon.svg" alt="MARIDB" width="35px" height="35px"></a>
-<a href="https://www.postgresql.org/" title="POSTGRESSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svgg" alt="POSTGRESSQL" width="35px" height="35px"></a>
+<a href="https://www.postgresql.org/" title="POSTGRESSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="POSTGRESSQL" width="35px" height="35px"></a>
 <a href="https://www.mongodb.com/" title="MONGO"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MONGO" width="35px" height="35px"></a>
 
 
