@@ -10,7 +10,7 @@
 <!-- <li>📙 Check out my <a href="">resume</a>.</li> -->
 </ul>
 
-**Languages and Tools 🚀**
+**Skills: Languages and Tools 🚀**
 
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="35px" height="35px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="35px" height="35px"></a>
