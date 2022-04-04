@@ -19,6 +19,7 @@
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="35px" height="35px"></a>
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" width="35px" height="35px"></a>
 <a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="35px" height="35px"></a>
+<a href="https://laravel.com/" title="LARAVEL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/laravel.svg" alt="LARAVEL" width="35px" height="35px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="35px" height="35px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="35px" height="35px"></a>
 <a href="https://www.mysql.com/" title="MYSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MYSQL" width="35px" height="35px"></a>
