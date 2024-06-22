@@ -13,9 +13,11 @@
 
 **Skills: Languages and Tools 🚀**
 
-<a href="https://vuejs.org/" title="vue.js"><img src="https://v2.vuejs.org/images/logo.svg" alt="vue.js" width="35px" height="35px"></a>
+<a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/vue.svg" alt="Vue.js" width="35px" height="35px"></a>
+<a href="https://react.dev" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="35px" height="35px"></a>
 <a href="https://laravel.com/" title="LARAVEL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/laravel.svg" alt="LARAVEL" width="35px" height="35px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="35px" height="35px"></a>
+<a href="https://nestjs.com/" title="NestJs"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nestjs.svg" alt="NestJs" width="35px" height="35px"></a>
 <a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="35px" height="35px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="35px" height="35px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="35px" height="35px"></a>
