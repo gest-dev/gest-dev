@@ -1,13 +1,13 @@
-## Hi, I'm Gézer Ramos 🤙
+## Hi, I'm GestDev 🤙
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gezer-ramos-a87538127/)](https://www.linkedin.com/in/gezer-ramos-a87538127/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gest-dev/)](https://www.linkedin.com/in/gest-dev-a87538127/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gezerramo@gmail.com)](mailto:gezerramo@gmail.com) 
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://inventotecnologia.com.br/">Inventotecnologia</a>.</li>
 <li>🧐 Learning about <strong>server side architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/gezerramos?tab=repositories">Github</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/gest-dev?tab=repositories">Github</a>.</li>
 <!-- <li>📙 Check out my <a href="">resume</a>.</li> -->
 </ul>
 
@@ -33,6 +33,6 @@
 
 # Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gezerramos&show_icons=true&title_color=121214&icon_color=00d9ff&text_color=121214&bg_color=ffffff" alt="gezerramos" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gezerramos&layout=compact&show_icons=true&title_color=121214&icon_color=00d9ff&text_color=121214&bg_color=ffffff" alt="Top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gest-dev&show_icons=true&title_color=121214&icon_color=00d9ff&text_color=121214&bg_color=ffffff" alt="gest.dev" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gest-dev&layout=compact&show_icons=true&title_color=121214&icon_color=00d9ff&text_color=121214&bg_color=ffffff" alt="Top langs" />
 </p>
