@@ -5,9 +5,9 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://inventotecnologia.com.br/">Inventotecnologia</a>.</li>
+<!-- <li>🔭 I’m currently working on <a href="https://inventotecnologia.com.br/">Inventotecnologia</a>.</li>
 <li>🧐 Learning about <strong>server side architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/gest-dev?tab=repositories">Github</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/gest-dev?tab=repositories">Github</a>.</li> -->
 <!-- <li>📙 Check out my <a href="">resume</a>.</li> -->
 </ul>
 
